@@ -1,5 +1,5 @@
-#Developer
+# Developer
 	- Nick Schneider
 
-#Program
+# Program
 	- My command Line Gitty
